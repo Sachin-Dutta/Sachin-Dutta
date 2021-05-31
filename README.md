@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sachin-Dutta
 - 👀 I’m interested in development
-- 🌱 I’m currently learning full stack Web Development 
+- 🌱 I’m currently learning full Stack Web Development 
 - 📫 Reach me at - sachinduttagithub@gmail.com 
 
 <!---
